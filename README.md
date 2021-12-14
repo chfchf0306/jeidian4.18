@@ -1,0 +1,14 @@
+代理：
+- {"name":"🇭🇰HK_489 |24.24Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":2375,"密码":"faBAoD54k87UJG7","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_492 |15.50Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":3306,"密码":"Y6R9pAtvxxzmGC","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_493 |24.24Mb","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":3389,"密码":"Y6R9pAtvxxzmGC","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_496 |24.57Mb","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":8090,"密码":"PCnnH6SQSnfoS27","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_498 |23.89Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":7306,"密码":"FoOiGlkAA9yPEGP","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_499 |24.74Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":8090,"密码":"PCnnH6SQSnfoS27","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_500 |21.77Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":5004,"密码":"g5MeD6Ft3CWlJId","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_502 |24.00Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":2376,"密码":"faBAoD54k87UJG7","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_504 |24.08Mb","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":2375,"密码":"faBAoD54k87UJG7","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_507 |19.44Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":7307,"密码":"FoOiGlkAA9yPEGP","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_510 |20.08Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":8090,"密码":"PCnnH6SQSnfoS27","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_512 |24.23Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":3389,"密码":"Y6R9pAtvxxzmGC","密码":"aes-256-gcm"}
+- {"name":"🇭🇰HK_514 |15.36Mb","server":"148.66.56.98","type":"ss","country":"🇭🇰HK","port":809,"密码":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
